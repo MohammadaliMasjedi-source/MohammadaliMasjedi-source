@@ -7,6 +7,6 @@ Classical guitarist — performer, teacher, composer.
 
 - 🔬 ORCID: [0009-0000-0068-9651](https://orcid.org/0009-0000-0068-9651)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mo-masjedi-20317323b/)
-- 🎸 [YouTube](https://www.youtube.com/@Mohammad_masjedi)
+- 🎸 [YouTube](https://www.youtube.com/@MohammadaliMasjediGuitar)
 
 *Also known as: Mohammad Ali Masjedi · Mohammad Masjedi · M. A. Masjedi · Mo Masjedi · Mo Mass Jedi · MassJedi · محمدعلی مسجدی · محمد علی مسجدی · محمد مسجدی*

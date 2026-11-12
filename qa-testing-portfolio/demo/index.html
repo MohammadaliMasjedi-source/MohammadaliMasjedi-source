@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>TaskTrail · QA Practice Lab</title>
+  <meta name="description" content="A deliberately imperfect task management demo for reproducible QA testing.">
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <main class="shell">
+    <div class="topline"><span class="logo" aria-hidden="true">◇</span> TASKTRAIL <span class="pill">QA PRACTICE LAB</span></div>
+    <header>
+      <p class="eyebrow">A small product with real, reproducible test cases</p>
+      <h1>Good software starts with <em>good questions.</em></h1>
+      <p class="subhead">Create, find and complete tasks. This local demonstration deliberately includes three documented defects.</p>
+    </header>
+    <section class="panel" aria-labelledby="add-heading">
+      <h2 id="add-heading">Create a task</h2>
+      <form id="task-form">
+        <div class="field wide"><label for="title">Task title</label><input id="title" name="title" maxlength="80" required placeholder="e.g. Test the new checkout flow"></div>
+        <div class="field"><label for="priority">Priority</label><select id="priority" name="priority"><option value="medium">Medium</option><option value="low">Low</option><option value="high">High</option></select></div>
+        <button class="primary" type="submit">Add task <span aria-hidden="true">↗</span></button>
+      </form>
+      <div id="message" class="message" role="status" aria-live="polite"></div>
+    </section>
+    <section class="panel" aria-labelledby="list-heading">
+      <div class="section-header"><div><p class="eyebrow">Your workspace</p><h2 id="list-heading">Task list <span id="count" class="counter">0</span></h2></div><button class="secondary" id="reset" type="button">Reset demo</button></div>
+      <div class="filters"><div class="field"><label for="status">Status</label><select id="status"><option value="all">All tasks</option><option value="pending">Pending</option><option value="completed">Completed</option></select></div><div class="field grow"><label for="search">Search tasks</label><input id="search" type="search" placeholder="Search by title"></div></div>
+      <ul id="tasks" class="task-list" aria-live="polite"></ul>
+    </section>
+    <footer><span>Demo only · In-memory data · Not a production application</span><span>Built for honest software QA practice</span></footer>
+  </main>
+</body>
+</html>

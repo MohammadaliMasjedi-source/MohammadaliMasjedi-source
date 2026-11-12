@@ -1,0 +1,22 @@
+test_01_health_endpoint (test_api.APIContractTests.test_01_health_endpoint) ... ok
+test_02_initial_tasks (test_api.APIContractTests.test_02_initial_tasks) ... ok
+test_03_create_valid_task (test_api.APIContractTests.test_03_create_valid_task) ... ok
+test_04_missing_title_rejected (test_api.APIContractTests.test_04_missing_title_rejected) ... ok
+test_05_title_over_80_rejected (test_api.APIContractTests.test_05_title_over_80_rejected) ... ok
+test_06_pending_filter (test_api.APIContractTests.test_06_pending_filter) ... ok
+test_07_search_case_insensitive (test_api.APIContractTests.test_07_search_case_insensitive) ... ok
+test_08_update_status (test_api.APIContractTests.test_08_update_status) ... ok
+test_09_reject_invalid_status (test_api.APIContractTests.test_09_reject_invalid_status) ... ok
+test_10_delete_existing (test_api.APIContractTests.test_10_delete_existing) ... ok
+test_11_unknown_patch_is_404 (test_api.APIContractTests.test_11_unknown_patch_is_404) ... ok
+test_12_title_exactly_80_accepted (test_api.APIContractTests.test_12_title_exactly_80_accepted) ... ok
+test_13_reject_invalid_priority (test_api.APIContractTests.test_13_reject_invalid_priority) ... ok
+test_14_static_home_is_served (test_api.APIContractTests.test_14_static_home_is_served) ... ok
+test_15_bug_001_reject_whitespace_only_title (test_api.APIContractTests.test_15_bug_001_reject_whitespace_only_title) ... expected failure
+test_16_bug_002_filter_completed_only (test_api.APIContractTests.test_16_bug_002_filter_completed_only) ... expected failure
+test_17_bug_003_delete_unknown_is_404 (test_api.APIContractTests.test_17_bug_003_delete_unknown_is_404) ... expected failure
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.526s
+
+OK (expected failures=3)

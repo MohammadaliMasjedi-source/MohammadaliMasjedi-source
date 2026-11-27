@@ -6,19 +6,19 @@ I work in software development at SincoTec and am completing my master's studies
 
 Neda Aryana and I co-founded **Shiraz Art House (SHAH / خانهٔ هنر شیراز)**; I served as CEO from 2014 to 2020. My teaching experience spans school computing, music history, guitar, music theory and individual tuition.
 
-## Start with a small experiment
+## Try a project
 
-- **Read Python in Persian:** [یک بایت پایتون به فارسی](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa) is my draft translation of Swaroop C H’s book. Start with [eight runnable puzzles](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/blob/main/labs/README.md) or [the data structures chapter](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/blob/main/translation/09-data-structures.md); suggestions on a confusing Persian sentence are especially useful.
-- **Try software testing:** pick one [TaskTrail bug report](qa-testing-portfolio/docs/BUG-REPORTS.md), predict what the app will do, then [run the demo](qa-testing-portfolio/README.md) and see if you can reproduce it.
+**One Python puzzle, in Persian or English.** These strings both look like «آ»: one is a single character; the other is a letter plus a combining mark. What will Python print when you compare them? [حدست را امتحان کن](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/blob/main/labs/PLAY.md#q2) · [Try it in English](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/blob/main/labs/PLAY.en.md#q2). Pick an answer to reveal why. If a Persian explanation didn't click, tell me which sentence lost you in [the book repo](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/issues).
 
-If you enjoy these small experiments in software and teaching, you can follow this profile for more.
+**Help test Sahar (سحر), an offline learning prototype.** If you're a native Dari editor, pick one line in a draft and suggest how you'd say it to a learner, and why. [Find the reviewer role that fits](https://github.com/MohammadaliMasjedi-source/Sahar/blob/main/contribute/REVIEWER-GATE.md). Prefer software testing? [Try a cold start in airplane mode](https://github.com/MohammadaliMasjedi-source/MohammadaliMasjedi-source/blob/main/qa-testing-portfolio/README.md#try-the-same-method-on-sahar) on your own phone. Both tasks are for adult volunteers; no learner data is needed.
+
+Follow this profile for new experiments, or go straight to the change history: [Python puzzles](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/commits/main/labs/) · [Sahar](https://github.com/MohammadaliMasjedi-source/Sahar/commits/main/).
 
 ## Things you can explore
 
 - [Portfolio — English, Deutsch, فارسی](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/)
-- [Sahar](https://github.com/MohammadaliMasjedi-source/Sahar) — an open, offline-first learning prototype connecting education, languages and software. [Contributions welcome](https://github.com/MohammadaliMasjedi-source/Sahar/blob/main/CONTRIBUTING.md).
 - [Raspberry Pi camera autofocus](https://github.com/MohammadaliMasjedi-source/rpi-camera-af) — collaborative TU Clausthal seminar work, based on ETCE-LAB's project; this repository is a fork. [Try the focus score without a Pi](https://github.com/MohammadaliMasjedi-source/rpi-camera-af/blob/main/examples/focus_scores.py).
-- [Software QA case study](qa-testing-portfolio/README.md) — manual and functional test cases, reproducible defect reports, and API checks.
+- [TaskTrail software QA case study](https://github.com/MohammadaliMasjedi-source/MohammadaliMasjedi-source/blob/main/qa-testing-portfolio/README.md) — choose a [seeded bug](https://github.com/MohammadaliMasjedi-source/MohammadaliMasjedi-source/blob/main/qa-testing-portfolio/docs/BUG-REPORTS.md) and see whether you can reproduce it.
 - [Guitar performances on YouTube](https://www.youtube.com/@MohammadaliMasjediGuitar)
 - [CV and experience](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/cv/)
 

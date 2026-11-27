@@ -53,6 +53,16 @@ No credentials or external APIs are required. The collection is **authored but h
 - [Executed test summary and limitations](docs/TEST-EXECUTION.md)
 - [Local API run output](evidence/api-test-run.txt)
 
+## Try the same method on Sahar
+
+TaskTrail's bugs were planted. Here is a real question from a different project: after installing [Sahar](https://github.com/MohammadaliMasjedi-source/Sahar) on your own Android phone, can you close it, disconnect, and reopen a lesson from its icon?
+
+1. Use a test profile with invented data. Start from a **trusted HTTPS** copy of the app: plain HTTP on a local Wi-Fi address won't normally allow the service worker to install. Open one lesson online to establish what should happen.
+2. Close the app, turn on airplane mode, verify Wi-Fi is also off, and open it again from its icon. Try the same lesson. Write down the first step where the offline result differs, or say what passed.
+3. Use the [device checklist](https://github.com/MohammadaliMasjedi-source/Sahar/blob/main/docs/PHONE-TEST.md) to record your device model, OS/browser versions, steps, and expected/actual results. Check [existing Sahar issues](https://github.com/MohammadaliMasjedi-source/Sahar/issues) for the same case before adding a report. No child, learner account, identifying details, or personal screenshot is needed.
+
+An online pass and an offline failure on the same phone are useful evidence. A desktop simulation alone doesn't establish that the phone works offline.
+
 ## Skills demonstrated
 
 Requirements interpretation, boundary-value analysis, negative testing, exploratory test design, defect triage, API contract verification, HTTP status semantics, reproducible steps, and honest evidence reporting. Automation is limited to a small, readable verification layer; the focus is **manual and functional QA**.

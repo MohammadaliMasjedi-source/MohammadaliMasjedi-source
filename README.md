@@ -21,6 +21,7 @@ Follow this profile for new experiments, or go straight to the change history: [
 ## Things you can explore
 
 - [Portfolio — English, Deutsch, فارسی](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/)
+- [Open-source work — education, access, and contributions](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/open-source/) · [فارسی](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/fa/open-source/) · [Deutsch](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/de/open-source/). The contribution records include [python-docx](https://github.com/python-openxml/python-docx/pull/1567), [PyProBE](https://github.com/ImperialCollegeLondon/PyProBE/pull/421), and [ETCE-LAB](https://github.com/ETCE-LAB/rpi-camera-af/commit/9780c776ae25b909203595f5384c96a48023a8f9).
 - [Raspberry Pi camera autofocus](https://github.com/MohammadaliMasjedi-source/rpi-camera-af) — collaborative TU Clausthal seminar work, based on ETCE-LAB's project; this repository is a fork. [Try the focus score without a Pi](https://github.com/MohammadaliMasjedi-source/rpi-camera-af/blob/main/examples/focus_scores.py).
 - [TaskTrail software QA case study](https://github.com/MohammadaliMasjedi-source/MohammadaliMasjedi-source/blob/main/qa-testing-portfolio/README.md) — choose a [seeded bug](https://github.com/MohammadaliMasjedi-source/MohammadaliMasjedi-source/blob/main/qa-testing-portfolio/docs/BUG-REPORTS.md) and see whether you can reproduce it.
 - [Guitar performances on YouTube](https://www.youtube.com/@MohammadaliMasjediGuitar)

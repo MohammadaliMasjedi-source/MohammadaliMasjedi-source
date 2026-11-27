@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 250" role="img" aria-labelledby="title desc">
+<title id="title">Same number of lapses per six reviews, different workload</title>
+<desc id="desc">Review days in the first 60 days under the default five-box policy. Alternating good and again gives 40 dots; three good followed by three again gives 20 dots. Each dot is one on-time review.</desc>
+<rect width="100%" height="100%" fill="#f8fafb"/>
+<g fill="#172f3c" font-family="system-ui,sans-serif">
+<text x="20" y="32" font-size="21" font-weight="bold">When reviews fall on the calendar</text>
+<g><title>Alternating: 40 reviews. Days: 0, 2, 3, 5, 6, 8, 9, 11, 12, 14, 15, 17, 18, 20, 21, 23, 24, 26, 27, 29, 30, 32, 33, 35, 36, 38, 39, 41, 42, 44, 45, 47, 48, 50, 51, 53, 54, 56, 57, 59</title>
+<text x="20" y="76" font-size="15">Alternating · GAGAGA · 40 reviews</text>
+<path d="M98 95h590" stroke="#c0cad0"/>
+<circle cx="98" cy="95" r="3.6" fill="#126059"/>
+<circle cx="118" cy="95" r="3.6" fill="#126059"/>
+<circle cx="128" cy="95" r="3.6" fill="#126059"/>
+<circle cx="148" cy="95" r="3.6" fill="#126059"/>
+<circle cx="158" cy="95" r="3.6" fill="#126059"/>
+<circle cx="178" cy="95" r="3.6" fill="#126059"/>
+<circle cx="188" cy="95" r="3.6" fill="#126059"/>
+<circle cx="208" cy="95" r="3.6" fill="#126059"/>
+<circle cx="218" cy="95" r="3.6" fill="#126059"/>
+<circle cx="238" cy="95" r="3.6" fill="#126059"/>
+<circle cx="248" cy="95" r="3.6" fill="#126059"/>
+<circle cx="268" cy="95" r="3.6" fill="#126059"/>
+<circle cx="278" cy="95" r="3.6" fill="#126059"/>
+<circle cx="298" cy="95" r="3.6" fill="#126059"/>
+<circle cx="308" cy="95" r="3.6" fill="#126059"/>
+<circle cx="328" cy="95" r="3.6" fill="#126059"/>
+<circle cx="338" cy="95" r="3.6" fill="#126059"/>
+<circle cx="358" cy="95" r="3.6" fill="#126059"/>
+<circle cx="368" cy="95" r="3.6" fill="#126059"/>
+<circle cx="388" cy="95" r="3.6" fill="#126059"/>
+<circle cx="398" cy="95" r="3.6" fill="#126059"/>
+<circle cx="418" cy="95" r="3.6" fill="#126059"/>
+<circle cx="428" cy="95" r="3.6" fill="#126059"/>
+<circle cx="448" cy="95" r="3.6" fill="#126059"/>
+<circle cx="458" cy="95" r="3.6" fill="#126059"/>
+<circle cx="478" cy="95" r="3.6" fill="#126059"/>
+<circle cx="488" cy="95" r="3.6" fill="#126059"/>
+<circle cx="508" cy="95" r="3.6" fill="#126059"/>
+<circle cx="518" cy="95" r="3.6" fill="#126059"/>
+<circle cx="538" cy="95" r="3.6" fill="#126059"/>
+<circle cx="548" cy="95" r="3.6" fill="#126059"/>
+<circle cx="568" cy="95" r="3.6" fill="#126059"/>
+<circle cx="578" cy="95" r="3.6" fill="#126059"/>
+<circle cx="598" cy="95" r="3.6" fill="#126059"/>
+<circle cx="608" cy="95" r="3.6" fill="#126059"/>
+<circle cx="628" cy="95" r="3.6" fill="#126059"/>
+<circle cx="638" cy="95" r="3.6" fill="#126059"/>
+<circle cx="658" cy="95" r="3.6" fill="#126059"/>
+<circle cx="668" cy="95" r="3.6" fill="#126059"/>
+<circle cx="688" cy="95" r="3.6" fill="#126059"/>
+</g>
+<g><title>Clustered: 20 reviews. Days: 0, 2, 6, 15, 16, 17, 18, 20, 24, 33, 34, 35, 36, 38, 42, 51, 52, 53, 54, 56</title>
+<text x="20" y="137" font-size="15">Clustered · GGGAAA · 20 reviews</text>
+<path d="M98 156h590" stroke="#c0cad0"/>
+<circle cx="98" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="118" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="158" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="248" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="258" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="268" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="278" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="298" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="338" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="428" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="438" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="448" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="458" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="478" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="518" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="608" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="618" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="628" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="638" cy="156" r="3.6" fill="#91410c"/>
+<circle cx="658" cy="156" r="3.6" fill="#91410c"/>
+</g>
+<path d="M98 180h590" stroke="#364955"/>
+<g><path d="M98 180v6" stroke="#364955"/><text x="98" y="204" text-anchor="middle" font-size="14">0</text></g>
+<g><path d="M248 180v6" stroke="#364955"/><text x="248" y="204" text-anchor="middle" font-size="14">15</text></g>
+<g><path d="M398 180v6" stroke="#364955"/><text x="398" y="204" text-anchor="middle" font-size="14">30</text></g>
+<g><path d="M548 180v6" stroke="#364955"/><text x="548" y="204" text-anchor="middle" font-size="14">45</text></g>
+<g><path d="M688 180v6" stroke="#364955"/><text x="688" y="204" text-anchor="middle" font-size="14">59</text></g>
+<text x="393" y="232" text-anchor="middle" font-size="14">Days since first review · one dot per review</text>
+</g></svg>

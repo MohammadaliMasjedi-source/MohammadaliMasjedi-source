@@ -27,6 +27,8 @@ Open <http://127.0.0.1:8000/>. For the Persian interface, select **فارسی**,
 
 **What to try:** in the default example, replace the second answer (`again`) with `easy`. Compare the due dates and box moves. Undo the change with **Reset example**. When chart bars look similar across two experiments, compare the numeric day counts: each chart scales to its own longest wait.
 
+**Compare three schedules:** [Same answers, different review calendars](study/README.md) explores why two scripts with the same number of lapses can yield 20 or 40 reviews in 60 days. Includes the full dataset, timeline and an offline reproduction command.
+
 ## The exact rule
 
 A new card starts in box 1. Each box has a delay: **1, 2, 4, 9, 21 days** by default. The answer selects the **new** box, whose delay sets the next review date. `again` resets to 1; `hard` stays put; `good` advances one; `easy` advances two. No move passes the last box.

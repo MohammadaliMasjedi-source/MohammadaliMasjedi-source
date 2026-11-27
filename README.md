@@ -12,6 +12,8 @@ Neda Aryana and I co-founded **Shiraz Art House (SHAH / خانهٔ هنر شیر
 
 **Help test Sahar (سحر), an offline learning prototype.** If you're a native Dari editor, pick one line in a draft and suggest how you'd say it to a learner, and why. [Find the reviewer role that fits](https://github.com/MohammadaliMasjedi-source/Sahar/blob/main/contribute/REVIEWER-GATE.md). Prefer software testing? [Try a cold start in airplane mode](https://github.com/MohammadaliMasjedi-source/MohammadaliMasjedi-source/blob/main/qa-testing-portfolio/README.md#try-the-same-method-on-sahar) on your own phone. Both tasks are for adult volunteers; no learner data is needed.
 
+**Can a passing test hide a bug?** Try [the TaskTrail filter detective](qa-testing-portfolio/README.md#play-the-three-query-detective-case). You'll judge three live responses from a local task board, check your reasoning, and leave with a reproducible evidence report. Python only; no account or installation of packages.
+
 Follow this profile for new experiments, or go straight to the change history: [Python puzzles](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/commits/main/labs/) · [Sahar](https://github.com/MohammadaliMasjedi-source/Sahar/commits/main/).
 
 ## Things you can explore

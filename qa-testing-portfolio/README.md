@@ -6,6 +6,12 @@ A reproducible portfolio project built around a small task-management web app an
 
 > **Transparency:** TaskTrail is a **synthetic practice application**, not a client product. Three defects were intentionally seeded to demonstrate the testing and reporting process. This work is not presented as paid QA employment or a production audit.
 
+## Play the three-query detective case
+
+From this directory run `python3 practice.py` (Python 3.9+, no packages). It starts its own local demo, shows the expected and *actual* HTTP result, and lets you call each one a pass or a failure before revealing the verdict. You'll see why a passing combined filter can hide a defect. No account, network service or prior QA experience is needed.
+
+For a narrated answer key and a shareable evidence report, run `python3 practice.py --walkthrough --report my-findings.md`. The report uses the actual responses from your run and won't overwrite an existing file.
+
 ## Results at a glance
 
 | Deliverable | Included |

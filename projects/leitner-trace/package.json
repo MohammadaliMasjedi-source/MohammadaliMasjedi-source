@@ -1,0 +1,10 @@
+{
+  "name": "leitner-trace",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Inspect a deterministic spaced-repetition schedule in a browser or a terminal.",
+  "license": "MIT",
+  "exports": { ".": "./trace.js", "./srs": "./srs.js" },
+  "scripts": { "test": "node --test", "demo": "node cli.js 2028-02-28 good,again,hard,easy" }
+}

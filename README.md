@@ -27,6 +27,14 @@ Follow this profile for new experiments, or go straight to the change history: [
 - [Guitar performances on YouTube](https://www.youtube.com/@MohammadaliMasjediGuitar)
 - [CV and experience](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/cv/)
 
+## Music and cultural work
+
+I taught classical guitar and music history in Shiraz and led the Shiraz Classical Guitar Ensemble. In 2024 I performed at TU Clausthal’s graduation ceremony with its Big Band. [University report](https://www.tu-clausthal.de/pressemitteilungen/pressemitteilungendetail/die-welt-wartet-auf-das-was-wir-daraus-machen) · [Press and programme records](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/press/)
+
+At Shiraz Art House I helped run music, film and theatre programmes and produced *Gedakhtegi*, a video-art work directed by Ali Sharifi. [Shiraz Art House archive](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/shiraz-art-house/)
+
+[<img src="https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/assets/img/mo-guitar-live.jpg" alt="Mo Masjedi playing guitar on stage" width="420">](https://www.youtube.com/@MohammadaliMasjediGuitar)
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/mohammadali-masjedi-20317323b/) · [ORCID 0009-0000-0068-9651](https://orcid.org/0009-0000-0068-9651)

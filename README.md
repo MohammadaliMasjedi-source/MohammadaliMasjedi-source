@@ -29,7 +29,7 @@ Follow this profile for new experiments, or go straight to the change history: [
 
 ## Music and cultural work
 
-I taught classical guitar and music history in Shiraz and led the Shiraz Classical Guitar Ensemble. In 2024 I performed at TU Clausthal’s graduation ceremony with its Big Band. [University report](https://www.tu-clausthal.de/pressemitteilungen/pressemitteilungendetail/die-welt-wartet-auf-das-was-wir-daraus-machen) · [Press and programme records](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/press/)
+I taught classical guitar and music history in Shiraz and led the Shiraz Classical Guitar Ensemble. TU Clausthal’s 2024 graduation report credits me with the musical accompaniment and identifies me as a musician from its Big Band. [University report](https://www.tu-clausthal.de/pressemitteilungen/pressemitteilungendetail/die-welt-wartet-auf-das-was-wir-daraus-machen) · [Press and programme records](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/press/)
 
 At Shiraz Art House I helped run music, film and theatre programmes and produced *Gedakhtegi*, a video-art work directed by Ali Sharifi. [Shiraz Art House archive](https://mo-masjedi-launch-review.spicycrown34.chatgpt.site/shiraz-art-house/)
 

@@ -8,7 +8,7 @@ Neda Aryana and I co-founded **Shiraz Art House (SHAH / خانهٔ هنر شیر
 
 ## Try a project
 
-**When should a flashcard come back?** [Open Leitner Trace](projects/leitner-trace/README.md), a free English/فارسی scheduling lab. Change one answer and see how it moves every later review date. The downloadable edition runs offline by double-click; developers can reuse the JavaScript scheduler or generate a trace from the command line. [See what's changed](https://github.com/MohammadaliMasjedi-source/MohammadaliMasjedi-source/commits/main/projects/leitner-trace/).
+**When should a flashcard come back?** [Open Leitner Trace](https://github.com/MohammadaliMasjedi-source/leitner-trace), a free English/فارسی scheduling lab. Change one answer and see how it moves every later review date. The downloadable edition runs offline by double-click; developers can reuse the JavaScript scheduler or generate a trace from the command line. [See what's changed](https://github.com/MohammadaliMasjedi-source/MohammadaliMasjedi-source/commits/main/projects/leitner-trace/).
 
 **One Python puzzle, in Persian or English.** These strings both look like «آ»: one is a single character; the other is a letter plus a combining mark. What will Python print when you compare them? [حدست را امتحان کن](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/blob/main/labs/PLAY.md#q2) · [Try it in English](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/blob/main/labs/PLAY.en.md#q2). Pick an answer to reveal why. If a Persian explanation didn't click, tell me which sentence lost you in [the book repo](https://github.com/MohammadaliMasjedi-source/a-byte-of-python-fa/issues).
 
